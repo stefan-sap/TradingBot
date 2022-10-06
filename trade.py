@@ -29,5 +29,7 @@ def submit_order(trading_client, symbol, qty, type, side, time_in_force):
 submit_order(get_account(), "BTC/USD", 1, "market", "buy", "gtc")
 # get_account()
 
+#Hi!
+
 
 
